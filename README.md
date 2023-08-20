@@ -1,1 +1,2 @@
-# Human-Activity-Recognition
+The work looks into several aspects of deep learning models designed specifically for human action recognition in order to accomplish this goal. The CNN-LSTM architecture will be the initial emphasis.A convolutional pretrained neural network extracts the features of the video while an LSTM neural network classifies the video into a certain category.
+To improve the generality and resilience of the suggested deep learning models, the thesis will further examine methodologies for transfer learning and model optimization. For this purpose large-scale action datasets like KTH and HMDB51 are explored which makes it easier to evaluate and contrast the produced models against cutting-edge techniques in-depth.
